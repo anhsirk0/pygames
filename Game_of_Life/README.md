@@ -1,5 +1,5 @@
 # Game of life
-Conway's game of life simulation 
+Conway's game of life simulation  
 Gospel gun is initial configuration of cells
 
 # Screenshot
